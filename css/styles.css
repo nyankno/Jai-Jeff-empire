@@ -1,0 +1,112 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+h1,h2,h3,h4,h5{
+  font-family: "montserrat-bold";
+  font-size: 4.5rem;
+  line-height: 3.0rem;
+}
+a{
+  margin: 20px 10px;
+}
+.link:hover{
+  color: red;
+}
+/* Titles section */
+#title{
+  text-align: left;
+  padding: 5% 10%;
+  background-color: #BCEAD5;
+}
+.big-heanding{
+
+}
+.title-image{
+  width: 60%;
+}
+.download-button{
+  margin: 30px auto;
+}
+.row{
+  padding:
+}
+
+
+/* navigation Bar */
+
+.navbar{
+    padding-bottom: 4.5rem;
+    fo
+
+}
+#navbarNav{
+  text-align: left;
+}
+
+
+.navbar-brand{
+  color:
+  font-family: 'Montserrat', sans-serif;
+  font-size: 10rem;
+
+
+}
+.heading{
+  font-size: 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.container-fluid{
+  padding:3% 15%;
+}
+#advertisement{
+  width: 40%;
+  padding: 5%;
+
+}
+/* introduction section */
+#introduction{
+  text-align: center;
+  padding: 10% 25%;
+}
+.intro-image{
+  width: 60%;
+}
+/* pricing section */
+
+#product{
+  width: ;
+  padding: 4% 15%;
+  background-color: #46C2CB;
+  text-align: center;
+  color: red;
+
+}
+.product-price{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.product-column{
+  padding: 3% 2%;
+}
+.shoe-product{
+  width: 70%;
+}
+
+/* footer section */
+#footer{
+  text-align: center;
+  padding: 10% 5%;
+}
+.copyright{
+  font-size: 0.75rem;
+   padding: 20px 0;
+}
